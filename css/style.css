@@ -1,11 +1,12 @@
 .draggable {
-      width: 200px;
+      /*width: 200px;
       height: 200px;
       padding: 0.5em;
-      float: left;
-      margin: 0 10px 10px 0;
+
+      margin: 0 10px 10px 0;*/
       cursor:move;
-      background-color: red;
+      /*background-color: red;*/
+        float: left;
   }
   .draggable, a {
       cursor:move;
@@ -24,7 +25,6 @@
       width: 800px;
       height:800px;
       border:2px solid #ccc;
-      padding: 10px;
   }
   h3 {
       clear: left;
