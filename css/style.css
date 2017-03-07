@@ -31,3 +31,13 @@
   h3 {
       clear: left;
   }
+.space{
+  border: 1px dashed !important;
+  border-color: #f1f1f1 !important;
+  cursor:move;
+  background-color: #fafafa;
+  height: 140px;
+  width:235px;
+  color: #f1f1f1;
+  padding-top: 35px;
+}
